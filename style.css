@@ -1,0 +1,8 @@
+.texto{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    background: aqua;
+    padding: 50px;
+    
+}
